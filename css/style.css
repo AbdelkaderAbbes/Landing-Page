@@ -29,7 +29,7 @@ body {
     width: 750px;
   }
 }
-/* sedium screen */
+/* medium screen */
 @media (min-width: 982px) {
   .container {
     width: 950px;
